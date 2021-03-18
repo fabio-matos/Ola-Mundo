@@ -1,4 +1,4 @@
-# Ola-Mundo
+# Olá-Mundo
  Primeiro Repositorio de Git e GitHub
 
-Repositorio criado assistindo a aula do prof. Gustavo Guanabara 
+Repositório criado assistindo a aula do prof. Gustavo Guanabara 
